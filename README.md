@@ -1,4 +1,4 @@
-A training project MongoDB-7 + Express.js-4.8 + React.js-18.2 + Node.js-18.14, in which DBMS, backend and frontend applications are containerized at startup for deployment in a cloud service.
+A training project MongoDB-7 + (Express.js-4.8 + Node.js-18.14) + React.js-18.2, in which DBMS, backend and frontend applications are containerized at startup for deployment in a cloud service.
 
 * To start application:
 [1] - create two './env/*.env' files with credentials
